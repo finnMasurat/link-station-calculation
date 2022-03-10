@@ -1,4 +1,4 @@
-from services.calculation_service import getNearestLinkStation
+from services.linkstation_service import getNearestLinkStation
 
 
 getNearestLinkStation((0,0))
